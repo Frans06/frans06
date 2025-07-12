@@ -7,7 +7,7 @@ I'm a **Full-Stack Software Engineer** and **Machine Learning enthusiast** with 
 🔭 **Currently working on**: Optimizing microservices for high-throughput trading platforms.  
 🌱 **Currently learning**: Advanced Kubernetes orchestration and generative AI models.  
 💬 **Ask me about**: Cloud architecture, machine learning, or IoT solutions.  
-📫 **Reach me**: [fransramirezneyra@example.com](mailto:fransramirezneyra@example.com) | [LinkedIn](https://linkedin.com/in/fransramirezneyra) | [GitHub](https://github.com/fransramirezneyra)
+📫 **Reach me**: [hello@fransramirez.com](mailto:hello@fransramirez.com) | [LinkedIn](https://www.linkedin.com/in/fransramiez/) | [GitHub](https://github.com/frans06)
 
 ---
 
@@ -56,16 +56,16 @@ I'm a **Full-Stack Software Engineer** and **Machine Learning enthusiast** with 
 - Implemented license plate recognition with OpenALPR and C++.
 - Built an IoT platform with MERN stack for real-time AI model deployment.
 
-*(Full experience details available on [LinkedIn](https://linkedin.com/in/fransramirezneyra))*
+*(Full experience details available on [LinkedIn](https://linkedin.com/in/frans06))*
 
 ---
 
 ## 📊 GitHub Stats
 
-![Frans's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fransramirezneyra&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fransramirezneyra&layout=compact&theme=radical)
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=fransramirezneyra&theme=radical)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fransramirezneyra&theme=onedark)
+![Frans's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frans06&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frans06&layout=compact&theme=radical)
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=frans06&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=frans06&theme=onedark)
 
 ---
 
@@ -79,10 +79,11 @@ I'm a **Full-Stack Software Engineer** and **Machine Learning enthusiast** with 
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fransramirezneyra)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fransramirezneyra@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/fransramirezneyra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fransramiez/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@fransramirez.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/frans06)
 
 ---
 
 *Generated with ❤️ using [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) and [Shields.io](https://shields.io/)*
+
